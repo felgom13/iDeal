@@ -1,7 +1,7 @@
 import React from 'react'
 
 import Navigation from 'Component/The/Navigation'
-import Router from 'Component/Shared/Router'
+import Router from 'Component/The/Router'
 
 export default () => (
   <>
