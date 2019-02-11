@@ -1,5 +1,18 @@
 import React from 'react'
 
-import Button from 'Component/Base/Button'
+import Navigation from 'Component/The/Navigation'
+import Router from 'Component/Shared/Router'
 
-export default () => <Button>Hello, world!</Button>
+export default () => (
+  <>
+    <header>
+      <Navigation />
+    </header>
+
+    <hr />
+
+    <main>
+      <Router />
+    </main>
+  </>
+)

@@ -2,4 +2,4 @@ import React from 'react'
 
 import style from 'Component/Base/Button/Button.module.css'
 
-export default props => <button className={style.button} {...props} />
+export default React.memo(p => <button className={style.button} {...p} />)
