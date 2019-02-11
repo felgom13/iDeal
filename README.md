@@ -1,4 +1,4 @@
-Make sure your IDE have the following installed:
+Make sure your editor has the following installed:
 
 - EditorConfig
 - ESLint
