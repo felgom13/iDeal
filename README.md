@@ -1,4 +1,4 @@
-Make sure your editor has the following installed:
+Make sure your editor of choice has the following installed:
 
 - EditorConfig
 - ESLint
@@ -15,7 +15,3 @@ To test the application.
 ### `npm run build`
 
 To build the application.
-
-### `npm run eject`
-
-Just don't, please.

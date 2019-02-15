@@ -1,0 +1,17 @@
+.message {
+  font-size: 2rem;
+  font-weight: 700;
+  text-align: center;
+}
+
+.picture {
+  max-height: 400px;
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 0 auto;
+  max-width: 400px;
+}
